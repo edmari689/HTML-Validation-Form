@@ -1,0 +1,37 @@
+table td p
+{
+font-size: 18;
+font-family: Arial;
+color: blue;
+}
+
+legend
+{
+color:#FF0000;
+font-size:30px;
+font-family:Script MT Bold;
+}
+
+fieldset
+{
+position:absolute;
+left:25%;
+top:10%;
+border: double orange;
+}
+
+button
+{
+font-size: 22;
+font-family: Arial;
+background-image: url('thCAG418CM.jpg');
+width:85;
+height:45;
+color: red;
+font-weight: bold;
+}
+
+body
+{
+background-image: url('thCAG418CM.jpg');
+}
